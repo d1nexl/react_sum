@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react';
-import { Sum } from './components/Sum.jsx';
+import { Sum } from './components/Sum/Sum.jsx';
 import './App.scss';
 
 export const App = () => (
